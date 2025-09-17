@@ -24,9 +24,6 @@
           <li>⚡ Fun fact: <em>I think I am funny 😄</em></li>
         </ul>
       </td>
-      <td width="50%" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=ishdav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-      </td>
     </tr>
   </table>
 </div>
